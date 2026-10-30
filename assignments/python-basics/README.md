@@ -16,9 +16,13 @@ Completed program should:
 
 - Ask the user for their name, age, and favorite color using `input()`.
 - Return a welcome message formatted as:
-  `Hello, [name]! You are [age] years old and your favorite color is [color].`
+  ```text
+  Hello, [name]! You are [age] years old and your favorite color is [color].
+  ```
 - Example output:
-  `Hello, Alice! You are 25 years old and your favorite color is blue.`
+  ```text
+  Hello, Alice! You are 25 years old and your favorite color is blue.
+  ```
 
 ### 🛠️ Basic Arithmetic
 
@@ -31,7 +35,12 @@ Completed program should:
 - Ask the user to enter two numbers.
 - Add the numbers together.
 - Print and return the sum.
-- For example, entering `3` and `7` should print and return `10`.
+- For example, entering `3` and `7` should produce:
+  ```text
+  Enter the first number: 3
+  Enter the second number: 7
+  10
+  ```
 
 ### 🛠️ Conditional Statements
 

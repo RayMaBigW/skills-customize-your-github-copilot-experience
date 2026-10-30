@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite",
+      "title": "Persist FastAPI Data with SQLite",
+      "description": "Extend a FastAPI task API with SQLite storage so task data persists across server restarts",
+      "path": "assignments/fastapi-sqlite",
+      "dueDate": "2026-11-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }

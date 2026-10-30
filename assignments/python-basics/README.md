@@ -1,4 +1,3 @@
-
 # 📘 Assignment: Python Basics
 
 ## 🎯 Objective
@@ -24,17 +23,15 @@ Completed program should:
 ### 🛠️ Basic Arithmetic
 
 #### Description
-Write a function called `add_two_numbers()` that prompts the user for two numbers and prints their sum.
+Write a function called `add_two_numbers()` that prompts the user for two numbers, adds them, prints the sum, and returns it.
 
 #### Requirements
 Completed program should:
 
 - Ask the user to enter two numbers.
 - Add the numbers together.
-- Print the result. Example:
-  Enter the first number: 3
-  Enter the second number: 7
-  10
+- Print and return the sum.
+- For example, entering `3` and `7` should print and return `10`.
 
 ### 🛠️ Conditional Statements
 
